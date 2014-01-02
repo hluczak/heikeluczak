@@ -1,0 +1,31 @@
+body {
+	margin-top: 100px; /* 100px is double the height of the navbar - I made it a big larger for some more space - keep it at 50px at least if you want to use the fixed top nav */
+}
+
+footer {
+	margin: 50px 0;
+}
+
+table { width:98%;
+border:1px solid #000;}
+th {
+text-align:left;
+}
+td { border:1px solid #000; vertical-align:top; }
+.tr_color {
+	background-color: #CCC;
+			}
+.caption {
+	background-color: #000;
+	color: #FFF;
+	}
+#content {
+float: left;
+width:75%;
+margin-left:2%;
+}
+
+.blau {
+  color: #428bca;
+  text-decoration: none;
+}
