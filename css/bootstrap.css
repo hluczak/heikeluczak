@@ -175,10 +175,10 @@ img {
 }
 
 hr {
-  margin-top: 20px;
-  margin-bottom: 20px;
+ margin-top: 0.8em;
+  margin-bottom: 0.8em;
   border: 0;
-  border-top: 1px solid #eeeeee;
+  border-top: 1px dashed gray;
 }
 
 
@@ -187,10 +187,9 @@ p {
 }
 
 .lead {
-  margin-bottom: 20px;
-  font-size: 16px;
+  font-size: 1em;
   font-weight: 200;
-  line-height: 1.4;
+  line-height: 1.2;
 }
 
 @media (min-width: 768px) {
@@ -1450,7 +1449,7 @@ fieldset[disabled] .btn {
   list-style: none;
 }
 
-.nav:before,
+/*.nav:before,
 .nav:after {
   display: table;
   content: " ";
@@ -1469,7 +1468,7 @@ fieldset[disabled] .btn {
 .nav:after {
   clear: both;
 }
-
+*/
 .nav > li {
   position: relative;
   display: block;
