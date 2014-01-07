@@ -127,13 +127,13 @@ button,
 }
 
 a {
-  color: #428bca;
+  color: #13548c;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #2a6496;
+  color: #0d3455;
   text-decoration: underline;
 }
 
