@@ -1654,8 +1654,10 @@ fieldset[disabled] .btn {
 
 .navbar-brand {
   float: left;
-  padding: 15px 15px;
-  font-size: 18px;
+  margin-top:11px;
+padding-right:40px;
+  padding-left:10px;
+  font-size: 25px;
   line-height: 20px;
 }
 
